@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=j8PxqgliIno
 ##### *ADDITIONAL INFORMATION*
 Nothing to say here, ***Bold and italic that's cool***
 ###### **VERSION SUMMARY**
-! [This is an image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUniversity_of_Iowa&psig=AOvVaw0pnYhsmiENn2qrDisx_V_9&ust=1646273474899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD1i-GspvYCFQAAAAAdAAAAABAD)
+! [This is an image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.collegesimply.com%2Fcolleges%2Fiowa%2Funiversity-of-iowa%2F&psig=AOvVaw0pnYhsmiENn2qrDisx_V_9&ust=1646273474899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD1i-GspvYCFQAAAAAdAAAAABAP)
